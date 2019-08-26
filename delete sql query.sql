@@ -1,0 +1,1 @@
+﻿delete  from CartTable where Username='Sign In';

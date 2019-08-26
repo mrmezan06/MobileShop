@@ -1,0 +1,1 @@
+﻿select Id,Name,Price,ImageURL from Info where Name LIKE '%Asus%';
